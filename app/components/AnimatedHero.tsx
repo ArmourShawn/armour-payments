@@ -3,6 +3,48 @@
 import { motion } from 'framer-motion'
 import { useEffect, useState } from 'react'
 
+function FloatingPaths({ position }: { position: number }) {
+  const paths = Array.from({ length: 36 }, (_, i) => ({
+    id: i,
+    d: `M-${380 - i * 5 * position} -${189 + i * 6}C-${
+      380 - i * 5 * position
+    } -${189 + i * 6} -${312 - i * 5 * position} ${216 - i * 6} ${
+      152 - i * 5 * position
+    } ${343 - i * 6}C${616 - i * 5 * position} ${470 - i * 6} ${
+      684 - i * 5 * position
+    } ${875 - i * 6} ${684 - i * 5 * position} ${875 - i * 6}`,
+    width: 0.5 + i * 0.03,
+  }))
+
+  return (
+    <div className="absolute inset-0 pointer-events-none">
+      <svg className="w-full h-full text-blue-600" viewBox="0 0 696 316" fill="none">
+        <title>Background Paths</title>
+        {paths.map((path) => (
+          <motion.path
+            key={path.id}
+            d={path.d}
+            stroke="currentColor"
+            strokeWidth={path.width}
+            strokeOpacity={0.1 + path.id * 0.03}
+            initial={{ pathLength: 0.3, opacity: 0.6 }}
+            animate={{
+              pathLength: 1,
+              opacity: [0.3, 0.6, 0.3],
+              pathOffset: [0, 1, 0],
+            }}
+            transition={{
+              duration: 20 + Math.random() * 10,
+              repeat: Number.POSITIVE_INFINITY,
+              ease: "linear",
+            }}
+          />
+        ))}
+      </svg>
+    </div>
+  )
+}
+
 interface AnimatedHeroProps {
   children: React.ReactNode
 }
@@ -24,35 +66,17 @@ export default function AnimatedHero({ children }: AnimatedHeroProps) {
 
   return (
     <div className="relative min-h-[600px] overflow-hidden bg-slate-900">
-      {/* Animated gradient background */}
-      <motion.div
-        className="absolute inset-0 z-0"
-        animate={{
-          background: [
-            'radial-gradient(circle at 0% 0%, rgb(59, 130, 246) 0%, rgb(30, 64, 175) 50%, rgb(15, 23, 42) 100%)',
-            'radial-gradient(circle at 100% 100%, rgb(59, 130, 246) 0%, rgb(30, 64, 175) 50%, rgb(15, 23, 42) 100%)',
-            'radial-gradient(circle at 50% 50%, rgb(59, 130, 246) 0%, rgb(30, 64, 175) 50%, rgb(15, 23, 42) 100%)',
-            'radial-gradient(circle at 0% 100%, rgb(59, 130, 246) 0%, rgb(30, 64, 175) 50%, rgb(15, 23, 42) 100%)',
-            'radial-gradient(circle at 100% 0%, rgb(59, 130, 246) 0%, rgb(30, 64, 175) 50%, rgb(15, 23, 42) 100%)',
-            'radial-gradient(circle at 0% 0%, rgb(59, 130, 246) 0%, rgb(30, 64, 175) 50%, rgb(15, 23, 42) 100%)',
-          ],
-        }}
-        transition={{
-          duration: 20,
-          repeat: Infinity,
-          ease: "linear"
-        }}
-        style={{
-          transform: `translate(${mousePosition.x * 20}px, ${mousePosition.y * 20}px)`,
-        }}
-      />
+      {/* Animated background with floating paths */}
+      <div className="absolute inset-0 z-0">
+        <FloatingPaths position={1} />
+        <FloatingPaths position={-1} />
+      </div>
 
-      {/* Noise texture overlay */}
+      {/* Gradient overlay */}
       <div 
-        className="absolute inset-0 z-10 opacity-50"
+        className="absolute inset-0 z-10 bg-gradient-to-b from-transparent via-slate-900/50 to-slate-900"
         style={{
-          backgroundImage: 'url("data:image/svg+xml,%3Csvg viewBox=\'0 0 400 400\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cfilter id=\'noiseFilter\'%3E%3CfeTurbulence type=\'fractalNoise\' baseFrequency=\'0.8\' numOctaves=\'3\' stitchTiles=\'stitch\'/%3E%3C/filter%3E%3Crect width=\'100%25\' height=\'100%25\' filter=\'url(%23noiseFilter)\'/%3E%3C/svg%3E")',
-          filter: 'contrast(200%) brightness(150%)',
+          background: 'radial-gradient(circle at 50% 50%, rgba(59, 130, 246, 0.1) 0%, rgba(30, 64, 175, 0.15) 25%, rgba(15, 23, 42, 0.8) 100%)',
         }}
       />
 
