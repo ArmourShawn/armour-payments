@@ -1,46 +1,27 @@
 import type { Metadata } from 'next';
-import type { ReactNode } from 'react';
-import { Inter, Lexend } from 'next/font/google';
-import { Toaster } from 'react-hot-toast';
-import Navbar from './layouts/Navbar';
-import Footer from './layouts/Footer';
-import './styles/globals.css';
+import { Inter } from 'next/font/google';
+import './globals.css';
+import MainNav from './components/navigation/MainNav';
+import Footer from './components/navigation/Footer';
 
-const inter = Inter({
-  subsets: ['latin'],
-  display: 'swap',
-  variable: '--font-inter',
-});
-
-const lexend = Lexend({
-  subsets: ['latin'],
-  display: 'swap',
-  variable: '--font-lexend',
-});
+const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: {
-    template: '%s | Armour Payments',
-    default: 'Armour Payments - Secure Payment Solutions',
-  },
-  description: 'Secure payment solutions for businesses and enterprises',
-  keywords: ['payments', 'secure payments', 'business payments', 'enterprise payments'],
+  title: 'Armour Payments - Secure Payment Solutions',
+  description: 'Secure payment solutions for businesses of all sizes.',
 };
 
 export default function RootLayout({
   children,
 }: {
-  children: ReactNode;
+  children: React.ReactNode
 }) {
   return (
-    <html lang="en" className={`${inter.variable} ${lexend.variable}`}>
-      <body className="min-h-screen flex flex-col bg-slate-50 font-sans">
-        <Navbar />
-        <main className="flex-grow pt-16">
-          {children}
-        </main>
+    <html lang="en">
+      <body className={inter.className}>
+        <MainNav />
+        <main>{children}</main>
         <Footer />
-        <Toaster position="top-right" />
       </body>
     </html>
   );
