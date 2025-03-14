@@ -11,6 +11,7 @@ import {
   WifiIcon,
   BuildingOffice2Icon,
 } from '@heroicons/react/24/outline'
+import Logo from '../Logo'
 
 const terminals = [
   {
@@ -42,6 +43,7 @@ const terminals = [
 const navigation = {
   main: [
     { name: 'Home', href: '/' },
+    { name: 'Products', href: '/products' },
     {
       name: 'Terminals',
       href: '/terminals',
@@ -96,8 +98,8 @@ export default function MainNav() {
           <div className="flex">
             {/* Logo */}
             <div className="flex-shrink-0 flex items-center">
-              <Link href="/" className="text-xl font-bold text-blue-600">
-                Armour Payments
+              <Link href="/" className="flex items-center">
+                <Logo variant="dark" className="h-8 w-auto" />
               </Link>
             </div>
 

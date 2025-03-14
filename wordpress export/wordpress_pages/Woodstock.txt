@@ -1,0 +1,224 @@
+[et_pb_section fb_built="1" custom_padding_last_edited="on|phone" module_id="main" _builder_version="4.19.4" background_enable_image="off" custom_padding="0px||0px||true|false" custom_padding_tablet="0px||0px||true|false" custom_padding_phone="0px||0px||true|false" global_colors_info="{}"][et_pb_row _builder_version="4.19.4" _module_preset="default" width="100%" max_width="2560px" module_alignment="center" custom_margin="-65px||-65px||false|false" custom_margin_tablet="-65px||-65px||false|false" custom_margin_phone="-30px||0px||false|false" custom_margin_last_edited="on|phone" custom_padding="||0px|||" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" custom_padding="15px||4px|||" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/Chamber-Logo.png" title_text="Chamber Logo" align="center" admin_label="Image" _builder_version="4.19.4" _module_preset="default" width="60%" global_colors_info="{}"][/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" custom_padding="16px|||||" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h4>Membership has its perks!</h4>
+<p>The Woodstock Chamber of Commerce has partnered with Armour Payments, one of Canada’s premiere merchant services providers, to offer all Chamber of Commerce members exclusive, preferred discounted rates for accepting credit and debit card payments, E-commerce and point-of-sale solutions.</p>
+<p>As a Chamber member, you will not only benefit from our preferred credit and debit pricing, but also benefit from no set-up fees, no monthly fees, and no hidden fees. This means you can save money on your credit and debit transactions, and avoid unexpected costs associated with your card processing with fully transparent pricing.</p>
+<p>Armour provides a wide range of robust solutions for businesses, including mobile payments, on-the-go payments, retail and restaurant POS solutions, unattended kiosks, online/in-store payments, and gift &amp; loyalty card programs.</p>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Member Benefits" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h4>Looking to compare your current fees?</h4>
+<p>Let Armour demonstrate what you might be able to save! Talk to an Armour representative for a cost comparison to see how this product contrasts with your current payment processing.</p>[/et_pb_text][et_pb_button button_url="@ET-DC@eyJkeW5hbWljIjp0cnVlLCJjb250ZW50IjoicG9zdF9saW5rX3VybF9wYWdlIiwic2V0dGluZ3MiOnsicG9zdF9pZCI6IjIzMTkyNSJ9fQ==@" button_text="GET STARTED TODAY" button_alignment="center" _builder_version="4.19.4" _dynamic_attributes="button_url" _module_preset="default" custom_button="on" button_text_color="#FFFFFF" button_border_radius="30px" background_layout="dark" global_colors_info="{}"][/et_pb_button][et_pb_text admin_label="Or Call" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;">or call:<br /><a href="tel:+18554276687">1-855-427-6687 ext 1</a></p>[/et_pb_text][et_pb_text admin_label="Interchange Blurb" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;"><em>Interchange/Wholesale Discount + Other Payment Brand Fees, Set by Visa, Mastercard, Amex, Discover and, Union Pay</em></p>[/et_pb_text][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h1 style="text-align: center;">Preferred Chamber of Commerce Rates</h1>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_5,1_5,1_5,1_5,1_5" custom_padding_last_edited="on|tablet" _builder_version="4.19.4" module_alignment="center" custom_padding="50px||50px||true|false" custom_padding_tablet="25px||25px||true|false" custom_padding_phone="" collapsed="off" global_colors_info="{}"][et_pb_column type="1_5" _builder_version="4.19.4" custom_css_main_element="margin: auto;" border_color_all="#A50000" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/mastercard-sized.png" title_text="mastercard sized" align="center" _builder_version="4.19.4" _module_preset="default" module_alignment="center" global_colors_info="{}"][/et_pb_image][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;"><strong style="font-size: 11.5px;">Processing Fee 0.20%</strong><br /><strong style="font-size: 11.5px;">Acquirer License Fee 0.02%</strong><br /><strong style="font-size: 11.5px;">Cross Border / INT 1.00%</strong><br /><em style="font-size: 11.5px;">(at Cost No Markup)</em></p>[/et_pb_text][/et_pb_column][et_pb_column type="1_5" _builder_version="4.16" custom_css_main_element="margin: auto;" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/Visa-Sized.png" title_text="Visa Sized" align="center" _builder_version="4.19.4" _module_preset="default" width="100%" global_colors_info="{}"][/et_pb_image][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;"><strong style="font-size: 11.5px;">Processing Fee 0.20%<br />Acquirer License Fee 0.00%</strong><br /><strong style="font-size: 11.5px;">Cross Border / INT 1.20%</strong><br /><em style="font-size: 11.5px;">(at Cost No Markup)</em></p>[/et_pb_text][/et_pb_column][et_pb_column type="1_5" _builder_version="4.16" custom_css_main_element="margin: auto;" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/Amex-Sized-Proper.png" title_text="Amex Sized Proper" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;"><strong style="font-size: 11.5px;">Processing Fee 0.20%<br />Acquirer License Fee 0.00%</strong><br /><strong style="font-size: 11.5px;">Cross Border / INT 0.80%</strong><br /><em style="font-size: 11.5px;">(at Cost No Markup)</em></p>[/et_pb_text][/et_pb_column][et_pb_column type="1_5" _builder_version="4.16" custom_css_main_element="margin: auto;" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/discovery-logo.png" title_text="discovery logo" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;"><strong style="font-size: 11.5px;">Processing Fee 0.20%<br />Acquirer License Fee 0.00%</strong><br /><strong style="font-size: 11.5px;">Cross Border / INT 0.40%</strong><br /><em style="font-size: 11.5px;">(at Cost No Markup)</em></p>[/et_pb_text][/et_pb_column][et_pb_column type="1_5" _builder_version="4.16" custom_css_main_element="margin: auto;" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/Union-Pay-Sized.png" title_text="Union Pay Sized" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;"><strong style="font-size: 11.5px;">Processing Fee 0.20%<br />Acquirer License Fee 0.00%</strong><br /><strong style="font-size: 11.5px;">Cross Border / INT 0.00%</strong></p>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_3,1_3,1_3" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_3" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/Interac-Sized.png" title_text="Interac Sized" align="center" _builder_version="4.19.4" _module_preset="default" module_alignment="center" global_colors_info="{}"][/et_pb_image][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;"><strong style="font-size: 15.5px;">Per Transaction $0.039
+</strong>Interac Flash $0.02 - $0.035
+<em style="font-size: 11.5px;">(Set by Interac® Pass Through Cost)</em></p>[/et_pb_text][/et_pb_column][et_pb_column type="1_3" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/Apple-Pay-Sized.png" title_text="Apple Pay Sized" align="center" _builder_version="4.19.4" _module_preset="default" module_alignment="center" global_colors_info="{}"][/et_pb_image][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;"><strong style="font-size: 15.5px;">Pass Through Cost</strong></p>[/et_pb_text][/et_pb_column][et_pb_column type="1_3" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/Google-Pay-sized.png" title_text="Google Pay sized" align="center" _builder_version="4.19.4" _module_preset="default" module_alignment="center" global_colors_info="{}"][/et_pb_image][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;"><strong style="font-size: 15.5px;">Pass Through Cost</strong></p>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.22.1" _module_preset="default" text_font_size="18px" header_line_height="1.4em" global_colors_info="{}"]<h1 style="text-align: center;">FLAT FEE  PRICING AVAILABLE</h1>
+<p>&nbsp;</p>
+<p style="text-align: center;">Contact us directly to go over if this solution is right for you</p>
+<p>&nbsp;</p>
+<h4 style="text-align: center;">Card Present | Card Not Present | eCommerce | Virtual Terminals</h4>
+<h1> </h1>
+<h1 style="text-align: center;">ARMOUR Setup &amp; Monthly Fees</h1>
+<table style="border-collapse: collapse; width: 100%; height: 186px;" border="1">
+<tbody>
+<tr style="height: 47px;">
+<td style="width: 50%; text-align: left; height: 47px;"><strong>Application Fee </strong></td>
+<td style="width: 50%; height: 47px; text-align: center;"><em>$0.00</em></td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 50%; height: 23px; text-align: left;"><strong>Monthly Admin Fee</strong></td>
+<td style="width: 50%; height: 23px; text-align: center;"><em> $0.00</em></td>
+</tr>
+<tr style="height: 47px;">
+<td style="width: 50%; height: 47px; text-align: left;"><strong>On-Site Terminal Setup &amp; Training</strong></td>
+<td style="width: 50%; height: 47px; text-align: center;"><em> $0.00</em></td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 50%; height: 23px; text-align: left;"><strong>Online Merchant Portal </strong></td>
+<td style="width: 50%; height: 23px; text-align: center;"><em> $0.00</em></td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 50%; height: 23px; text-align: left;"><strong>PCI Monthly Fees </strong></td>
+<td style="width: 50%; height: 23px; text-align: center;"><em> $0.00</em></td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 50%; height: 23px; text-align: left;"><strong>Digital &amp; Paper Statements </strong></td>
+<td style="width: 50%; height: 23px; text-align: center;"><em> $0.00</em></td>
+</tr>
+</tbody>
+</table>[/et_pb_text][et_pb_text _builder_version="4.19.4" _module_preset="default" text_font_size="12px" global_colors_info="{}"]<p><em>*Interchange is the raw cost of each card as dictated by the card brands. This pricing structure is a transparent offering where we will transfer the interchange cost directly to you. Our markup will then be charged on the total volume processed at the end of the month. All fees and rates are subject to change as set out in the Merchant Agreement. For full pricing details, please refer to your Merchant Agreement.</em></p>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row disabled_on="on|on|on" _builder_version="4.23.1" _module_preset="default" custom_padding="27px|||||" disabled="on" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.23.1" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.23.1" _module_preset="default" global_colors_info="{}"]<h1 style="text-align: center;">CHOOSE YOUR SIGN UP BONUS</h1>[/et_pb_text][et_pb_text _builder_version="4.23.1" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;">Unlock Exclusive Bonuses for New and Existing Chamber Members When You Sign Up with Armour Payments!</p>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_4,1_4,1_4,1_4" disabled_on="on|on|on" _builder_version="4.23.1" _module_preset="default" custom_margin="||20px||false|false" custom_padding="||27px|||" disabled="on" global_colors_info="{}"][et_pb_column type="1_4" _builder_version="4.23.1" _module_preset="default" background_color="#FFFFFF" background_enable_pattern_style="on" background_pattern_style="inverted-chevrons" background_pattern_color="rgba(178,178,178,0.07)" custom_padding="20px|20px|20px|20px|false|false" border_radii="on|8px|8px|8px|8px" border_width_all="2px" border_color_all="#B3B3B3" box_shadow_style="preset1" global_colors_info="{}" border_color_all__hover_enabled="on|hover" border_width_all__hover_enabled="on|hover" border_width_all__hover="3px" border_color_all__hover="#A50000" box_shadow_spread__hover_enabled="on|hover" box_shadow_spread__hover="8px"][et_pb_icon font_icon="&#xf3cd;||fa||900" icon_color="#6B6B6B" icon_width="80px" _builder_version="4.23.1" _module_preset="default" box_shadow_style="preset1" box_shadow_vertical="1px" global_colors_info="{}"][/et_pb_icon][et_pb_text _builder_version="4.23.1" _module_preset="default" text_font="|||on|||||" text_text_color="#1E1E1E" text_font_size="16px" global_colors_info="{}"]<p style="text-align: center;"><strong>6 Months Terminal Rental Fee Waived</strong><br />► <strong><span style="color: #ff0000;">$138 VALUE</span> </strong>◄</p>[/et_pb_text][/et_pb_column][et_pb_column type="1_4" _builder_version="4.23.1" _module_preset="default" background_color="#FFFFFF" background_enable_pattern_style="on" background_pattern_style="inverted-chevrons" background_pattern_color="rgba(178,178,178,0.07)" custom_padding="20px|20px|20px|20px|false|false" border_radii="on|8px|8px|8px|8px" border_width_all="2px" border_color_all="#B3B3B3" box_shadow_style="preset1" global_colors_info="{}" border_width_all__hover="3px" border_width_all__hover_enabled="on|hover" border_color_all__hover="#A50000" border_color_all__hover_enabled="on|hover" box_shadow_spread__hover="8px" box_shadow_spread__hover_enabled="on|hover"][et_pb_icon font_icon="&#xf0ac;||fa||900" icon_color="#6B6B6B" icon_width="80px" _builder_version="4.23.1" _module_preset="default" global_colors_info="{}"][/et_pb_icon][et_pb_text _builder_version="4.23.1" _module_preset="default" text_font="|||on|||||" text_text_color="#1E1E1E" text_font_size="16px" global_colors_info="{}"]<p style="text-align: center;"><strong>6 Months Online Gateway Fee Waived</strong><br />► <strong><span style="color: #ff0000;">$150 VALUE</span> </strong>◄</p>[/et_pb_text][/et_pb_column][et_pb_column type="1_4" _builder_version="4.23.1" _module_preset="default" background_color="#FFFFFF" background_enable_pattern_style="on" background_pattern_style="inverted-chevrons" background_pattern_color="rgba(178,178,178,0.07)" custom_padding="20px|20px|20px|20px|false|false" border_radii="on|8px|8px|8px|8px" border_width_all="2px" border_color_all="#B3B3B3" box_shadow_style="preset1" global_colors_info="{}" border_width_all__hover="3px" border_width_all__hover_enabled="on|hover" border_color_all__hover="#A50000" border_color_all__hover_enabled="on|hover" box_shadow_spread__hover="8px" box_shadow_spread__hover_enabled="on|hover"][et_pb_icon font_icon="&#xf2e7;||fa||900" icon_color="#6B6B6B" icon_width="80px" _builder_version="4.23.1" _module_preset="default" global_colors_info="{}"][/et_pb_icon][et_pb_text _builder_version="4.23.1" _module_preset="default" text_font="|||on|||||" text_text_color="#1E1E1E" text_font_size="18px" global_colors_info="{}"]<p style="text-align: center;"><strong>3 Months Caviar Restaurant POS Fee Waived**</strong><br />► <strong><span style="color: #ff0000;">$600 VALUE</span> </strong>◄</p>[/et_pb_text][/et_pb_column][et_pb_column type="1_4" _builder_version="4.23.1" _module_preset="default" background_color="#FFFFFF" background_enable_pattern_style="on" background_pattern_style="inverted-chevrons" background_pattern_color="rgba(178,178,178,0.07)" custom_padding="20px|20px|20px|20px|false|false" border_radii="on|8px|8px|8px|8px" border_width_all="2px" border_color_all="#B3B3B3" box_shadow_style="preset1" global_colors_info="{}" border_width_all__hover="3px" border_width_all__hover_enabled="on|hover" border_color_all__hover="#A50000" border_color_all__hover_enabled="on|hover" box_shadow_spread__hover="8px" box_shadow_spread__hover_enabled="on|hover"][et_pb_icon font_icon="&#xf4b9;||fa||900" icon_color="#6B6B6B" icon_width="80px" _builder_version="4.23.1" _module_preset="default" global_colors_info="{}"][/et_pb_icon][et_pb_text _builder_version="4.23.1" _module_preset="default" text_font="|||on|||||" text_text_color="#1E1E1E" text_font_size="18px" global_colors_info="{}"]<p style="text-align: center;"><strong>6 Months Give Tree Donations Fee Waived<br /></strong>► <strong><span style="color: #ff0000;">$150 VALUE</span> </strong>◄</p>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row admin_label="Mobile & Tablet Title" _builder_version="4.19.4" _module_preset="default" custom_padding="0px|||||" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text disabled_on="on|on|on" _builder_version="4.23.1" _module_preset="default" disabled="on" global_colors_info="{}"]<p style="text-align: center;"><em>**Caviar Core Package, up to 2 licenses, setup/installation/hardware costs apply </em></p>[/et_pb_text][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h4>Mobile &amp; Tablet Solutions</h4>[/et_pb_text][et_pb_code _builder_version="4.23.1" _module_preset="default" global_colors_info="{}"][/et_pb_code][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="Phone & Tablet Solution" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/Mobile-Pay-Graphic-Sized.png" title_text="Mobile Pay Graphic Sized" align="center" admin_label="Image" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Text" _builder_version="4.22.1" _module_preset="default" global_colors_info="{}"]<div class="title">
+<h4>Armour Mobile Pay</h4>
+</div>
+<div class="sub-title">
+<p><strong>$19.95 Monthly Rental Fee</strong><br /><strong>One-time Terminal Setup Fee $25</strong></p>
+<p>Take a variety of payment methods wherever your business takes you with a MobilePay pin-pad solution.</p>
+</div>
+<ul>
+<li>Easily &amp; securely pairs with your iOS, Android or Amazon Fire device via Bluetooth</li>
+<li>Add inventory and sell directly within the MobilePay App</li>
+<li>Email receipts to customers</li>
+<li>Supports Contactless Payments</li>
+<li>Send customers invoices with a payment link</li>
+</ul>
+<div class="sub-title"> </div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_divider color="#1E1E1E" admin_label="Divider" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_divider][/et_pb_column][/et_pb_row][et_pb_row admin_label="Instore Counter Top Solution" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h4>In-store Countertop Solution</h4>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="Counter Top Solutions" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/desk-5000-sized.png" title_text="desk 5000 sized" align="center" force_fullwidth="on" _builder_version="4.19.4" _module_preset="default" max_height="340.19px" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.22.1" _module_preset="default" global_colors_info="{}"]<h4 class="et_pb_module_header">DESK 5000</h4>
+<p><strong>$21.00 Monthly Rental Fee</strong><br /><strong>One-time Terminal Setup Fee $25</strong></p>
+<p>&nbsp;</p>
+<div class="et_pb_blurb_description">
+<ul>
+<li>Robust Design, Compact Size</li>
+<li>Fits on any Countertop</li>
+<li>Vivid colour display touch screen</li>
+<li>Build in Apps</li>
+<li>Compatible with semi-integration</li>
+<li>Contactless Payments</li>
+<li>Built in Advanced tipping functionality</li>
+</ul>
+</div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/Desk500-1500-Sized-1-min.png" title_text="Desk500 1500 Sized (1)-min" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.22.1" _module_preset="default" global_colors_info="{}"]<h4 class="et_pb_module_header">DESK 5000 w/ 1500 PIN PAD</h4>
+<p><strong>$25.00 Monthly Rental Fee</strong><br /><strong>One-time Terminal Setup Fee $25</strong></p>
+<p>&nbsp;</p>
+<div class="et_pb_blurb_description">
+<ul>
+<li>Semi-Integrated PIN pad that integrates with most POS softwares</li>
+<li>Secure payment acceptance at checkout</li>
+<li>Accepts EMV, magstripe and NFC/contactless payments quickly and easily</li>
+<li>Connects with Ingenico Group’s Desk series terminals with a single USB cable</li>
+<li>Compatible with Ingenico Desk 5000 countertop terminal</li>
+</ul>
+</div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_divider color="#1E1E1E" admin_label="Divider" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_divider][/et_pb_column][/et_pb_row][et_pb_row admin_label="Short & Long Range Wireless" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Text" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h4>Wireless Terminals Short/Long Range (Pay@theTable)</h4>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="Wireless & Short Range Solutions" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/A920.png" title_text="A920" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.22.1" _module_preset="default" global_colors_info="{}"]<h4 class="et_pb_module_header">PAX A920 SMART TERMINAL</h4>
+<p><strong>$23.00 Monthly Rental Fee</strong><br /><strong>One-time Terminal Setup Fee $25</strong></p>
+<p>&nbsp;</p>
+<div class="et_pb_blurb_description">
+<ul>
+<li>Powered by Android 7.1</li>
+<li>Cortex A7 processor</li>
+<li>5″ capacitive touch screen</li>
+<li>4G + WiFi + Bluetooth+ GPS</li>
+<li>5250mAh capacity battery</li>
+<li>Front &amp; rear cameras</li>
+<li>NFC contactless, PIN on glass</li>
+<li>PCI PTS 5.x SRED</li>
+<li>ATEX certified</li>
+<li>Optional Docking Station</li>
+<li>Contactless + chip &amp; PIN + magstripe</li>
+<li>Curb side pick up</li>
+<li>Trade shows</li>
+<li>Bell, Telus or Rogers 4G Sim</li>
+<li>Pay@theTable</li>
+</ul>
+</div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/Axium-Sized.png" title_text="Axium Sized" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.22.1" _module_preset="default" global_colors_info="{}"]<h4 class="et_pb_module_header">AXIUM DX 8000 SMART TERMINAL</h4>
+<p><strong>$23.00 Monthly Rental Fee</strong><br /><strong>One-time Terminal Setup Fee $25</strong></p>
+<p>&nbsp;</p>
+<div class="et_pb_blurb_description">
+<ul>
+<li>
+<div class="page" title="Page 2">
+<div class="layoutArea">
+<div class="column">
+<p>Rich business applications ecosystem/Unified APIs</p>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="page" title="Page 2">
+<div class="layoutArea">
+<div class="column">
+<p>Business-centric user-friendly interface</p>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="page" title="Page 2">
+<div class="layoutArea">
+<div class="column">
+<p>Safe and secure payment</p>
+</div>
+</div>
+</div>
+</li>
+<li>4G + WiFi + Bluetooth+ GPS</li>
+<li>
+<div class="page" title="Page 2">
+<div class="layoutArea">
+<div class="column">
+<p>All payment options</p>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="page" title="Page 2">
+<div class="layoutArea">
+<div class="column">
+<p>Maximized network availability</p>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="page" title="Page 2">
+<div class="layoutArea">
+<div class="column">
+<p>Cloud Services capabilities</p>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p>High-level performance with a long-lasting battery, up to 6″ screen, and front and rear cameras</p>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p>Boosted power with best-in-class processor and memory capacity</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/Sized-Move-5000.png" title_text="Sized Move 5000" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.22.1" _module_preset="default" global_colors_info="{}"]<h4 class="et_pb_module_header">MOVE 5000</h4>
+<p><strong>$23.00 Monthly Rental Fee</strong><br /><strong>One-time Terminal Setup Fee $25</strong></p>
+<p>&nbsp;</p>
+<div class="et_pb_blurb_description">
+<ul>
+<li>Take wireless payments on the go anywhere in Canada</li>
+<li>Never disconnect via automatic network switching</li>
+<li>Telus, Rogers, Bluetooth &amp; Wi-FI Connectivity</li>
+<li>Build-in advanced tipping functionality</li>
+<li>Contactless Payments</li>
+<li>Built-in Apps</li>
+</ul>
+</div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p><em>SIM &amp; Data fees are applicable for long-range wireless terminals*</em></p>[/et_pb_text][et_pb_divider color="#1E1E1E" admin_label="Divider" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_divider][/et_pb_column][/et_pb_row][et_pb_row admin_label="eCommerce Title" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Text" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h4>eCommerce</h4>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/Sized-eCommerce.png" title_text="Sized eCommerce" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.22.1" _module_preset="default" global_colors_info="{}"]<div class="title">
+<h4>eCommerce &amp; Hosted Checkout / Virtual Terminal</h4>
+</div>
+<div class="sub-title">
+<p><strong>$9.99 Monthly Rental Fee</strong><br /><strong>One-time Terminal Setup Fee $25</strong></p>
+<p>&nbsp;</p>
+</div>
+<ul>
+<li>Take card payments over the phone with a hosted payment gateway</li>
+<li>Accept payments online with a hosted checkout page</li>
+<li>Simplify transactions with secure card storage</li>
+<li>Featuring Online Billing, Invoicing Tools &amp; Automated Recurring Payment Structure</li>
+<li>Create "Pay Later" payment plans</li>
+<li>Transaction Encryption &amp; tokenization</li>
+<li>3D Secure for fraud prevention and verification</li>
+<li>Embed a QR Code on your website or invoices</li>
+</ul>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_divider color="#1E1E1E" admin_label="Divider" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_divider][/et_pb_column][/et_pb_row][et_pb_row admin_label="Point of Sale Solution" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Text" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h4>Point of Sale Solution</h4>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="POS" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/01/POS-Sized.png" title_text="POS Sized" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<div class="title">
+<h4>Complete POS</h4>
+</div>
+<div class="sub-title">
+<p><strong>Contact us for customized pricing</p>
+<p></strong></p>
+</div>
+<ul>
+<li>QSR, Full Service, Fine Dining</li>
+<li>Easy Setup &amp; User Friendly</li>
+<li>Payment Processing Integration</li>
+<li>Accepts Contactless Payments</li>
+<li>Accepts Reservations, Bookings &amp; Timed Pickups</li>
+<li>Features Inventory Management</li>
+<li>Integrates with online ordering platforms</li>
+<li>Tracks Employee Hours</li>
+<li>Integrates with Uber Eats, Skip the Dishes and Doordash</li>
+</ul>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_button button_url="@ET-DC@eyJkeW5hbWljIjp0cnVlLCJjb250ZW50IjoicG9zdF9saW5rX3VybF9wYWdlIiwic2V0dGluZ3MiOnsicG9zdF9pZCI6IjIzMTkyNSJ9fQ==@" button_text="GET STARTED TODAY" button_alignment="center" _builder_version="4.19.4" _dynamic_attributes="button_url" _module_preset="default" custom_button="on" button_text_color="#FFFFFF" button_border_radius="30px" background_layout="dark" global_colors_info="{}"][/et_pb_button][et_pb_text admin_label="Or Call" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;">or call:<br /><a href="tel:+18554276687">1-855-427-6687 ext 1</a></p>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]

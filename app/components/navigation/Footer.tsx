@@ -1,6 +1,7 @@
 'use client'
 
 import Link from 'next/link'
+import Logo from '../Logo'
 
 const navigation = {
   solutions: [
@@ -64,8 +65,8 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
           <div className="space-y-8 xl:col-span-1">
-            <Link href="/" className="text-2xl font-bold text-white">
-              Armour Payments
+            <Link href="/" className="inline-block">
+              <Logo variant="light" className="h-8 w-auto" />
             </Link>
             <p className="text-gray-400 text-base">
               Secure payment solutions for businesses of all sizes.
@@ -159,7 +160,27 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-12 border-t border-gray-700 pt-8">
-          <p className="text-base text-gray-400 xl:text-center">
+          <div className="flex flex-col md:flex-row justify-between items-center">
+            <div className="flex items-center">
+              <Link href="/" className="inline-block">
+                <Logo variant="light" className="h-8 w-auto" />
+              </Link>
+            </div>
+            
+            <div className="mt-4 md:mt-0 flex space-x-6">
+              {navigation.social.map((item) => (
+                <a
+                  key={item.name}
+                  href={item.href}
+                  className="text-gray-400 hover:text-gray-300"
+                >
+                  <span className="sr-only">{item.name}</span>
+                  <item.icon className="h-6 w-6" aria-hidden="true" />
+                </a>
+              ))}
+            </div>
+          </div>
+          <p className="mt-8 text-base text-gray-400 text-center">
             &copy; {new Date().getFullYear()} Armour Payments. All rights reserved.
           </p>
         </div>

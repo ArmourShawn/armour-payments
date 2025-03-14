@@ -1,0 +1,149 @@
+[et_pb_section fb_built="1" custom_padding_last_edited="on|phone" module_id="main" _builder_version="4.19.4" background_enable_image="off" custom_padding="0px||0px||true|false" custom_padding_tablet="0px||0px||true|false" custom_padding_phone="0px||0px||true|false" global_colors_info="{}"][et_pb_row _builder_version="4.19.4" _module_preset="default" width="100%" max_width="2560px" module_alignment="center" custom_margin="-65px||-65px||false|false" custom_margin_tablet="-65px||-65px||false|false" custom_margin_phone="-30px||0px||false|false" custom_margin_last_edited="on|phone" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_slider _builder_version="4.19.4" _module_preset="default" custom_margin="||30px|||" custom_margin_tablet="" custom_margin_phone="" custom_margin_last_edited="on|desktop" global_colors_info="{}"][et_pb_slide heading="DEJAVOO POINT OF SALE SOLUTIONS" _builder_version="4.19.4" _module_preset="default" background_image="https://armourpayments.com/wp-content/uploads/2023/06/Dejavoo-Banner.png" background_enable_image="on" global_colors_info="{}" sticky_transition="on"][/et_pb_slide][/et_pb_slider][/et_pb_column][/et_pb_row][et_pb_row admin_label="Android Terminal Line" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h2><img class="wp-image-236145 alignnone " src="https://armourpayments.com/wp-content/uploads/2023/06/Dejavoo.png" alt="" width="190" height="65" />  Android Terminal Line</h2>
+<p>Cutting-edge 4G technology for businesses looking to the future. Enjoy seamless and secure mobility with Android terminals.</p>
+<p>&nbsp;</p>
+<h2>Some of our Integrations</h2>
+<p>If you do not see your integration, <a href="https://armourpayments.com/contact/">please contact us for more details</a>.</p>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_6,1_6,1_6,1_6,1_6,1_6" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_6" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/Comprise.png" title_text="Comprise" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_6" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/MDWare.png" title_text="MDWare" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_6" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/EPOSNOW.png" title_text="EPOSNOW" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_6" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/CIN7.png" title_text="CIN7" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_6" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/CINQO.png" title_text="CINQO" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_6" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/Authorize.net_.png" title_text="Authorize.net" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_divider color="#1E1E1E" admin_label="Divider" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_divider][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="QD2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/DEJAVOO-QD2.png" title_text="DEJAVOO QD2" align="center" admin_label="Image" _builder_version="4.19.4" _module_preset="default" module_alignment="center" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Text" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<div class="title">
+<h4>DEJAVOO QD2</h4>
+<p>&nbsp;</p>
+</div>
+<div class="sub-title">
+<p><strong>MOBILE, WIRELESS</strong></p>
+<p>&nbsp;</p>
+</div>
+<ul>
+<li>4G, WiFi, Bluetooth</li>
+<li>5.5" touch screen</li>
+<li>E SIM world coverage</li>
+<li>7.4V - 2600mAh battery</li>
+<li>All-in-One DejaPayPro</li>
+</ul>
+<div class="sub-title"> </div>[/et_pb_text][et_pb_button button_url="@ET-DC@eyJkeW5hbWljIjp0cnVlLCJjb250ZW50IjoicG9zdF9saW5rX3VybF9wYWdlIiwic2V0dGluZ3MiOnsicG9zdF9pZCI6IjIzMTI3NCJ9fQ==@" button_text="Learn More" button_alignment="left" _builder_version="4.19.4" _dynamic_attributes="button_url" _module_preset="default" custom_button="on" button_text_color="#FFFFFF" button_border_radius="30px" background_layout="dark" locked="off" global_colors_info="{}"][/et_pb_button][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="QD3" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/Dejavoo-QD3.png" title_text="Dejavoo QD3" align="center" admin_label="Image" _builder_version="4.19.4" _module_preset="default" module_alignment="center" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Text" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<div class="title">
+<h4>DEJAVOO QD3</h4>
+<p>&nbsp;</p>
+</div>
+<div class="sub-title">
+<p><strong>mPOS Terminal</strong></p>
+<p>&nbsp;</p>
+</div>
+<ul>
+<li>4G, WiFi, Bluetooth</li>
+<li>4" touch screen</li>
+<li>Multi-unit charger</li>
+<li>Pocket size</li>
+<li>Insertion, MSR, contactless</li>
+</ul>
+<div class="sub-title"> </div>[/et_pb_text][et_pb_button button_url="@ET-DC@eyJkeW5hbWljIjp0cnVlLCJjb250ZW50IjoicG9zdF9saW5rX3VybF9wYWdlIiwic2V0dGluZ3MiOnsicG9zdF9pZCI6IjIzMTI4MSJ9fQ==@" button_text="Learn More" button_alignment="left" _builder_version="4.19.4" _dynamic_attributes="button_url" _module_preset="default" custom_button="on" button_text_color="#FFFFFF" button_border_radius="30px" background_layout="dark" locked="off" global_colors_info="{}"][/et_pb_button][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="QD4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/Dejavoo-QD4.png" title_text="Dejavoo QD4" align="center" admin_label="Image" _builder_version="4.19.4" _module_preset="default" module_alignment="center" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Text" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<div class="title">
+<h4>DEJAVOO QD4</h4>
+<p>&nbsp;</p>
+</div>
+<div class="sub-title">
+<p><strong>Desktop Terminal</strong></p>
+<p>&nbsp;</p>
+</div>
+<ul>
+<li>Quad-core @ 1.1 Ghz</li>
+<li>Ethernet, WiFi, USB</li>
+<li>Large touch screen</li>
+<li>50 ft. paper roll</li>
+</ul>
+<div class="sub-title"> </div>[/et_pb_text][et_pb_button button_url="@ET-DC@eyJkeW5hbWljIjp0cnVlLCJjb250ZW50IjoicG9zdF9saW5rX3VybF9wYWdlIiwic2V0dGluZ3MiOnsicG9zdF9pZCI6IjIzMTI4OCJ9fQ==@" button_text="Learn More" button_alignment="left" _builder_version="4.19.4" _dynamic_attributes="button_url" _module_preset="default" custom_button="on" button_text_color="#FFFFFF" button_border_radius="30px" background_layout="dark" locked="off" global_colors_info="{}"][/et_pb_button][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="QD5" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/DEJAVOO-QD5.png" title_text="DEJAVOO QD5" align="center" admin_label="Image" _builder_version="4.19.4" _module_preset="default" module_alignment="center" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Text" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<div class="title">
+<h4>DEJAVOO QD5</h4>
+<p>&nbsp;</p>
+</div>
+<div class="sub-title">
+<p><strong>PIN Pad Terminal</strong></p>
+<p>&nbsp;</p>
+</div>
+<ul>
+<li>Ethernet, WiFI, USB</li>
+<li>Multi-lane &amp; stand-alone</li>
+<li>Spin enabled</li>
+<li>Mounting plate</li>
+</ul>
+<div class="sub-title"> </div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_divider color="#1E1E1E" admin_label="Divider" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_divider][/et_pb_column][/et_pb_row][et_pb_row admin_label="Cloud-based POS System" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h2>For Retail, Restaurant &amp; Service/Schedule Businesses</h2>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="The 02 Android Solution" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/Android-02.png" title_text="Android 02" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h4 class="et_pb_module_header">THE 02 ANDROID SOLUTION</h4>
+<p><b>Smart &amp; Inexpensive</b></p>
+<p>&nbsp;</p>
+<div class="et_pb_blurb_description">
+<ul>
+<li>Most simplified POS register on Cloud</li>
+<li>Online/offline</li>
+<li>Andoird register, tablets with Dejavoo terminals</li>
+<li>A mobile or desktop all-in-one device</li>
+<li>Any number of registers/terminals combination</li>
+<li>For most retailers and restaurants, supports SKUs and barcode scanners</li>
+</ul>
+</div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="The Ipad iOS Solution" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/iPad-IOS-Solution.png" title_text="iPad IOS Solution" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h4 class="et_pb_module_header">THE iPAD iOS SOLUTION</h4>
+<p><b>High Speed with More Features</b></p>
+<p>&nbsp;</p>
+<div class="et_pb_blurb_description">
+<ul>
+<li>Advanced, powerful and feature-rich</li>
+<li>Use various tablets, vertically and horizontally</li>
+<li>Use any iPad as a register, pair with a Dejavoo terminal</li>
+<li>Custom fee, debit fees, cash discount etc.</li>
+<li>Acquiring relationship independence. Make your own deal!</li>
+<li>Expand reach to consumers and gather data for future use</li>
+<li>Kitchen printer can be any Dejavoo terminal or third party (Epson) device</li>
+</ul>
+</div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="All in One Solution" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/All-in-One.png" title_text="All in One" align="center" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<h4 class="et_pb_module_header">ALL-IN-ONE HANDHELD SOLUTION</h4>
+<div class="et_pb_blurb_description">
+<ul>
+<li>POS and credit card payments in one unit</li>
+<li>Small countertop space saver</li>
+<li>Synchronizes with existing registers or tablets</li>
+<li>Accepts all card types (Debit Injectable!)</li>
+<li>Pay at the table or curbside, or anywhere</li>
+</ul>
+</div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_divider color="#1E1E1E" admin_label="Divider" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][/et_pb_divider][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="General Retail - Smart & Inexpensive" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/General-Retail-DEJAVOO.png" title_text="General Retail DEJAVOO" align="center" admin_label="Image" _builder_version="4.19.4" _module_preset="default" module_alignment="center" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Text" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<div class="title">
+<h4>GENERAL RETAIL - SMART &amp; INEXPENSIVE</h4>
+<p>&nbsp;</p>
+</div>
+<ul>
+<li>Most simplified POS register on Cloud</li>
+<li>Online/offline</li>
+<li>Android register, tablets with Dejavoo terminals</li>
+<li>A mobile or desktop all-in-one device</li>
+<li>Any number of registers / terminals combination</li>
+<li>For most retailers and restaurants, supports SKUs, bluetooth barcode scanners and scales</li>
+</ul>
+<div class="sub-title"> </div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="Restaurant - Serve at Table" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/Restaurant-Serve-at-Table-DEJAVOO.png" title_text="Restaurant - Serve at Table DEJAVOO" align="center" admin_label="Image" _builder_version="4.19.4" _module_preset="default" module_alignment="center" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Text" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<div class="title">
+<h4>RESTAURANT - SERVE AT THE TABLE</h4>
+<p>&nbsp;</p>
+</div>
+<ul>
+<li>Advanced, powerful and feature-rich</li>
+<li>Use various tablets, vertically or horizontally</li>
+<li>Use robust Android registers, with ANY Dejavoo terminal</li>
+<li>Custom fee, debit fees, cash discount etc.</li>
+<li>Acquiring relationship independence, Make your own deal!</li>
+<li>Expand reach to consumers and gather data for future use</li>
+<li>Kitchen printer can be Dejavoo terminal or Android device</li>
+</ul>
+<div class="sub-title"> </div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="Service & Schedule " _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/Service-Schedule-DEJAVOO.png" title_text="Service & Schedule DEJAVOO" align="center" admin_label="Image" _builder_version="4.19.4" _module_preset="default" module_alignment="center" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Text" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<div class="title">
+<h4>SERVICE &amp; SCHEDULE IS PART OF DEJAPAYPRO</h4>
+<p>&nbsp;</p>
+</div>
+<ul>
+<li>Organize your business schedule</li>
+<li>Set services and resources</li>
+<li>Schedule appointments, identify consumers</li>
+<li>Send reminders and confirm visits</li>
+<li>Close open carts and get reviews from patrons</li>
+<li>Dejavoo terminals offer multiple payment options - cash, credit, debit, cheque, gift, invoice etc.</li>
+<li>Send digital receipts to consumers, get customer feedback and engage with loyalty programs</li>
+</ul>
+<div class="sub-title"> </div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" admin_label="It works Everywhere you go! " _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://armourpayments.com/wp-content/uploads/2023/06/It-Works-Everywhere-you-go-DEJAVOO.png" title_text="It Works Everywhere you go DEJAVOO" align="center" admin_label="Image" _builder_version="4.19.4" _module_preset="default" module_alignment="center" global_colors_info="{}"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_text admin_label="Text" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<div class="title">
+<h4>IT WORKS, EVERYWHERE YOU GO!</h4>
+<p>&nbsp;</p>
+</div>
+<ul>
+<li>All-in-one, portable payment device</li>
+<li>Economic, versatile with built in scanner</li>
+<li>Built-in online/offline reporting</li>
+<li>Multiple EMV certifications</li>
+<li>Two strong Android manufacturers</li>
+<li>Single Dejavoo software for all devices</li>
+<li>We encrypt, deploy and service</li>
+<li>Dejavoo - one company for all your POS needs</li>
+</ul>
+<div class="sub-title"> </div>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"][et_pb_button button_url="@ET-DC@eyJkeW5hbWljIjp0cnVlLCJjb250ZW50IjoicG9zdF9saW5rX3VybF9wYWdlIiwic2V0dGluZ3MiOnsicG9zdF9pZCI6IjIzMzQ4NiJ9fQ==@" button_text="GET STARTED TODAY" button_alignment="center" _builder_version="4.19.4" _dynamic_attributes="button_url" _module_preset="default" custom_button="on" button_text_color="#FFFFFF" button_border_radius="30px" background_layout="dark" global_colors_info="{}"][/et_pb_button][et_pb_text admin_label="Or Call" _builder_version="4.19.4" _module_preset="default" global_colors_info="{}"]<p style="text-align: center;">or call:<br /><a href="tel:+18554276687">1-855-427-6687 ext 1</a></p>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]

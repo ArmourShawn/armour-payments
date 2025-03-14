@@ -4,6 +4,7 @@ import AnimatedHero from './components/AnimatedHero';
 import Hero from './components/Hero';
 import Pricing from './components/Pricing';
 import { motion } from 'framer-motion';
+import { ChevronRightIcon } from '@heroicons/react/20/solid';
 
 export default function Home() {
   const title = "Secure Escrow Payments"
@@ -11,11 +12,44 @@ export default function Home() {
 
   return (
     <main>
-      <Hero />
-      <AnimatedHero>
-        <div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8 lg:py-40">
-          <div className="mx-auto max-w-2xl text-center">
-            <h1 className="text-5xl sm:text-7xl font-bold mb-8 tracking-tighter">
+      <div className="relative isolate overflow-hidden bg-white">
+        <svg
+          aria-hidden="true"
+          className="absolute inset-0 -z-10 size-full stroke-gray-200 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]"
+        >
+          <defs>
+            <pattern
+              x="50%"
+              y={-1}
+              id="0787a7c5-978c-4f66-83c7-11c213f99cb7"
+              width={200}
+              height={200}
+              patternUnits="userSpaceOnUse"
+            >
+              <path d="M.5 200V.5H200" fill="none" />
+            </pattern>
+          </defs>
+          <rect fill="url(#0787a7c5-978c-4f66-83c7-11c213f99cb7)" width="100%" height="100%" strokeWidth={0} />
+        </svg>
+        <div className="mx-auto max-w-7xl px-6 pt-10 pb-24 sm:pb-32 lg:flex lg:px-8 lg:py-40">
+          <div className="mx-auto max-w-2xl lg:mx-0 lg:shrink-0 lg:pt-8">
+            <img
+              alt="Your Company"
+              src="/logo.svg"
+              className="h-11"
+            />
+            <div className="mt-24 sm:mt-32 lg:mt-16">
+              <a href="#" className="inline-flex space-x-6">
+                <span className="rounded-full bg-indigo-600/10 px-3 py-1 text-sm/6 font-semibold text-indigo-600 ring-1 ring-indigo-600/10 ring-inset">
+                  What's new
+                </span>
+                <span className="inline-flex items-center space-x-2 text-sm/6 font-medium text-gray-600">
+                  <span>Just shipped v1.0</span>
+                  <ChevronRightIcon aria-hidden="true" className="size-5 text-gray-400" />
+                </span>
+              </a>
+            </div>
+            <h1 className="mt-10 text-5xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl">
               {words.map((word, wordIndex) => (
                 <span key={wordIndex} className="inline-block mr-4 last:mr-0">
                   {word.split("").map((letter, letterIndex) => (
@@ -29,8 +63,7 @@ export default function Home() {
                         stiffness: 150,
                         damping: 25,
                       }}
-                      className="inline-block text-transparent bg-clip-text 
-                        bg-gradient-to-r from-white to-white/80"
+                      className="inline-block"
                     >
                       {letter}
                     </motion.span>
@@ -39,7 +72,7 @@ export default function Home() {
               ))}
             </h1>
             <motion.p 
-              className="mt-6 text-lg leading-8 text-gray-300"
+              className="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.8 }}
@@ -48,36 +81,37 @@ export default function Home() {
               Protect both buyers and sellers while ensuring smooth, secure payments.
             </motion.p>
             <motion.div 
-              className="mt-10 flex items-center justify-center gap-x-6"
+              className="mt-10 flex items-center gap-x-6"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 1 }}
             >
-              <div className="inline-block group relative bg-gradient-to-b from-white/10 to-white/5 
-                p-px rounded-2xl backdrop-blur-lg overflow-hidden shadow-lg hover:shadow-xl 
-                transition-shadow duration-300">
-                <a
-                  href="/register"
-                  className="rounded-[1.15rem] px-8 py-4 text-lg font-semibold backdrop-blur-md 
-                    bg-blue-600/95 hover:bg-blue-600/100 text-white transition-all duration-300 
-                    group-hover:-translate-y-0.5 border border-white/10 hover:shadow-md 
-                    inline-block"
-                >
-                  <span className="opacity-90 group-hover:opacity-100 transition-opacity">Get Started</span>
-                  <span className="ml-3 opacity-70 group-hover:opacity-100 group-hover:translate-x-1.5 
-                    transition-all duration-300 inline-block">→</span>
-                </a>
-              </div>
-              <a href="/about" className="text-sm font-semibold leading-6 text-white group">
-                Learn more{' '}
-                <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-                  →
-                </span>
+              <a
+                href="/register"
+                className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+              >
+                Get started
+              </a>
+              <a href="/about" className="text-sm/6 font-semibold text-gray-900">
+                Learn more <span aria-hidden="true">→</span>
               </a>
             </motion.div>
           </div>
+          <div className="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:mt-0 lg:mr-0 lg:ml-10 lg:max-w-none lg:flex-none xl:ml-32">
+            <div className="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
+              <div className="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-gray-900/10 ring-inset lg:-m-4 lg:rounded-2xl lg:p-4">
+                <img
+                  alt="App screenshot"
+                  src="https://tailwindcss.com/plus-assets/img/component-images/project-app-screenshot.png"
+                  width={2432}
+                  height={1442}
+                  className="w-[76rem] rounded-md ring-1 shadow-2xl ring-gray-900/10"
+                />
+              </div>
+            </div>
+          </div>
         </div>
-      </AnimatedHero>
+      </div>
       <Pricing />
     </main>
   );
